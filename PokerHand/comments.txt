@@ -1,0 +1,510 @@
+PokerHand@6d06d69c Full House::You returned: Straight
+PokerHand@7852e922 Full House::You returned: Straight
+PokerHand@4e25154f Full House::You returned: Straight
+PokerHand@70dea4e Full House::You returned: Straight
+PokerHand@5c647e05 Full House::You returned: Straight
+PokerHand@33909752 Full House::You returned: Straight
+PokerHand@55f96302 Full House::You returned: Straight
+PokerHand@3d4eac69 Full House::You returned: Straight
+PokerHand@42a57993 3ok::You returned: Straight
+PokerHand@75b84c92 3ok::You returned: Straight
+PokerHand@6bc7c054 3ok::You returned: Straight
+PokerHand@232204a1 3ok::You returned: Straight
+PokerHand@4aa298b7 3ok::You returned: Straight
+PokerHand@7d4991ad 3ok::You returned: Straight
+PokerHand@28d93b30 3ok::You returned: Straight
+PokerHand@1b6d3586 3ok::You returned: Straight
+PokerHand@4554617c 4ok::You returned: Straight
+PokerHand@74a14482 4ok::You returned: Straight
+PokerHand@1540e19d getBestHand failed to run.  Deduction: 1
+PokerHand@677327b6 4ok::You returned: Straight
+PokerHand@14ae5a5 4ok::You returned: Straight
+PokerHand@7f31245a 4ok::You returned: Straight
+PokerHand@6d6f6e28 4ok::You returned: Straight
+PokerHand@135fbaa4 4ok::You returned: Straight
+PokerHand@45ee12a7 Pair::You returned: Straight
+PokerHand@330bedb4 Pair::You returned: Straight
+PokerHand@2503dbd3 Pair::You returned: Straight
+PokerHand@4b67cf4d Pair::You returned: Straight
+PokerHand@7ea987ac Pair::You returned: Straight
+PokerHand@12a3a380 Pair::You returned: Straight
+PokerHand@29453f44 Pair::You returned: Straight
+PokerHand@5cad8086 Pair::You returned: Straight
+PokerHand@6e0be858 Pair::You returned: Straight
+PokerHand@61bbe9ba Pair::You returned: Straight
+PokerHand@610455d6 Pair::You returned: Straight
+PokerHand@511d50c0 Pair::You returned: Straight
+PokerHand@60e53b93 Pair::You returned: Straight
+PokerHand@5e2de80c Pair::You returned: Straight
+PokerHand@1d44bcfa Pair::You returned: Straight
+PokerHand@266474c2 Pair::You returned: Straight
+PokerHand@6f94fa3e High A::You returned: Straight
+PokerHand@5e481248 High A::You returned: Straight
+PokerHand@66d3c617 High K::You returned: Straight
+PokerHand@63947c6b High A::You returned: Straight
+PokerHand@2b193f2d High K::You returned: Straight
+PokerHand@355da254 High K::You returned: Straight
+PokerHand@4dc63996 High A::You returned: Straight
+PokerHand@d716361 High K::You returned: Straight
+PokerHand@6ff3c5b5 High A::You returned: Straight
+PokerHand@3764951d High Q::You returned: Straight
+PokerHand@4b1210ee Full House::You returned: Straight
+PokerHand@4d7e1886 Full House::You returned: Straight
+PokerHand@3cd1a2f1 Full House::You returned: Straight
+PokerHand@2f0e140b Full House::You returned: Straight
+PokerHand@7440e464 Full House::You returned: Straight
+PokerHand@49476842 Full House::You returned: Straight
+PokerHand@78308db1 Full House::You returned: Straight
+PokerHand@27c170f0 Full House::You returned: Straight
+PokerHand@5451c3a8 3ok::You returned: Straight
+PokerHand@2626b418 3ok::You returned: Straight
+PokerHand@5a07e868 3ok::You returned: Straight
+PokerHand@76ed5528 3ok::You returned: Straight
+PokerHand@2c7b84de 3ok::You returned: Straight
+PokerHand@3fee733d 3ok::You returned: Straight
+PokerHand@5acf9800 3ok::You returned: Straight
+PokerHand@4617c264 3ok::You returned: Straight
+PokerHand@36baf30c 4ok::You returned: Straight
+PokerHand@7a81197d 4ok::You returned: Straight
+PokerHand@5ca881b5 4ok::You returned: Straight
+PokerHand@24d46ca6 4ok::You returned: Straight
+PokerHand@4517d9a3 4ok::You returned: Straight
+PokerHand@372f7a8d 4ok::You returned: Straight
+PokerHand@2f92e0f4 4ok::You returned: Straight
+PokerHand@28a418fc 4ok::You returned: Straight
+PokerHand@5305068a Pair::You returned: Straight
+PokerHand@1f32e575 Pair::You returned: Straight
+PokerHand@279f2327 Pair::You returned: Straight
+PokerHand@2ff4acd0 Pair::You returned: Straight
+PokerHand@54bedef2 Pair::You returned: Straight
+PokerHand@5caf905d Pair::You returned: Straight
+PokerHand@27716f4 Pair::You returned: Straight
+PokerHand@8efb846 Pair::You returned: Straight
+PokerHand@2a84aee7 Pair::You returned: Straight
+PokerHand@a09ee92 Pair::You returned: Straight
+PokerHand@30f39991 Pair::You returned: Straight
+PokerHand@452b3a41 Pair::You returned: Straight
+PokerHand@4a574795 Pair::You returned: Straight
+PokerHand@f6f4d33 Pair::You returned: Straight
+PokerHand@23fc625e Pair::You returned: Straight
+PokerHand@3f99bd52 Pair::You returned: Straight
+PokerHand@4f023edb High A::You returned: Straight
+PokerHand@3a71f4dd High J::You returned: Straight
+PokerHand@7adf9f5f High K::You returned: Straight
+PokerHand@85ede7b High A::You returned: Straight
+PokerHand@5674cd4d High Q::You returned: Straight
+PokerHand@63961c42 High Q::You returned: Straight
+PokerHand@65b54208 High A::You returned: Straight
+PokerHand@1be6f5c3 High Q::You returned: Straight
+PokerHand@6b884d57 High 10::You returned: Straight
+PokerHand@38af3868 High A::You returned: Straight
+PokerHand@77459877 Flush::You returned: Straight Flush
+PokerHand@5b2133b1 Full House::You returned: Straight
+PokerHand@72ea2f77 Full House::You returned: Straight
+PokerHand@33c7353a Full House::You returned: Straight
+PokerHand@681a9515 Full House::You returned: Straight
+PokerHand@3af49f1c Full House::You returned: Straight
+PokerHand@19469ea2 Full House::You returned: Straight
+PokerHand@13221655 Full House::You returned: Straight
+PokerHand@2f2c9b19 getBestHand failed to run.  Deduction: 1
+PokerHand@31befd9f 3ok::You returned: Straight
+PokerHand@1c20c684 3ok::You returned: Straight
+PokerHand@1fb3ebeb 3ok::You returned: Straight
+PokerHand@548c4f57 3ok::You returned: Straight
+PokerHand@1218025c 3ok::You returned: Straight
+PokerHand@816f27d 3ok::You returned: Straight
+PokerHand@87aac27 3ok::You returned: Straight
+PokerHand@3e3abc88 3ok::You returned: Straight
+PokerHand@6ce253f1 4ok::You returned: Straight
+PokerHand@53d8d10a 4ok::You returned: Straight
+PokerHand@e9e54c2 4ok::You returned: Straight
+PokerHand@65ab7765 4ok::You returned: Straight
+PokerHand@1b28cdfa 4ok::You returned: Straight
+PokerHand@eed1f14 getBestHand failed to run.  Deduction: 1
+PokerHand@7229724f 4ok::You returned: Straight
+PokerHand@4c873330 4ok::You returned: Straight
+PokerHand@119d7047 Pair::You returned: Straight
+PokerHand@776ec8df Pair::You returned: Straight
+PokerHand@4eec7777 Pair::You returned: Straight
+PokerHand@3b07d329 Pair::You returned: Straight
+PokerHand@41629346 Pair::You returned: Straight
+PokerHand@404b9385 Pair::You returned: Straight
+PokerHand@6d311334 Pair::You returned: Straight
+PokerHand@682a0b20 Pair::You returned: Straight
+PokerHand@3d075dc0 Pair::You returned: Straight
+PokerHand@214c265e Pair::You returned: Straight
+PokerHand@448139f0 Pair::You returned: Straight
+PokerHand@7cca494b Pair::You returned: Straight
+PokerHand@7ba4f24f Pair::You returned: Straight
+PokerHand@3b9a45b3 Pair::You returned: Straight
+PokerHand@7699a589 Pair::You returned: Straight
+PokerHand@58372a00 Pair::You returned: Straight
+PokerHand@4dd8dc3 High J::You returned: Straight
+PokerHand@6d03e736 High A::You returned: Straight
+PokerHand@568db2f2 High K::You returned: Straight
+PokerHand@378bf509 High 10::You returned: Straight
+PokerHand@5fd0d5ae High A::You returned: Straight
+PokerHand@2d98a335 High Q::You returned: Straight
+PokerHand@16b98e56 High J::You returned: Straight
+PokerHand@7ef20235 High A::You returned: Straight
+PokerHand@27d6c5e0 High J::You returned: Straight
+PokerHand@4f3f5b24 High 10::You returned: Straight
+PokerHand@15aeb7ab Full House::You returned: Straight
+PokerHand@7b23ec81 getBestHand failed to run.  Deduction: 1
+PokerHand@6acbcfc0 Full House::You returned: Straight
+PokerHand@5f184fc6 Full House::You returned: Straight
+PokerHand@3feba861 Full House::You returned: Straight
+PokerHand@5b480cf9 Full House::You returned: Straight
+PokerHand@6f496d9f Full House::You returned: Straight
+PokerHand@723279cf Full House::You returned: Straight
+PokerHand@10f87f48 3ok::You returned: Straight
+PokerHand@b4c966a 3ok::You returned: Straight
+PokerHand@2f4d3709 3ok::You returned: Straight
+PokerHand@4e50df2e 3ok::You returned: Straight
+PokerHand@1d81eb93 3ok::You returned: Straight
+PokerHand@7291c18f 3ok::You returned: Straight
+PokerHand@34a245ab 3ok::You returned: Straight
+PokerHand@7cc355be 3ok::You returned: Straight
+PokerHand@6e8cf4c6 4ok::You returned: Straight
+PokerHand@12edcd21 4ok::You returned: Straight
+PokerHand@34c45dca 4ok::You returned: Straight
+PokerHand@52cc8049 4ok::You returned: Straight
+PokerHand@5b6f7412 4ok::You returned: Straight
+PokerHand@27973e9b 4ok::You returned: Straight
+PokerHand@312b1dae 4ok::You returned: Straight
+PokerHand@7530d0a 4ok::You returned: Straight
+PokerHand@27bc2616 Pair::You returned: Straight
+PokerHand@3941a79c Pair::You returned: Straight
+PokerHand@506e1b77 Pair::You returned: Straight
+PokerHand@4fca772d Pair::You returned: Straight
+PokerHand@9807454 Pair::You returned: Straight
+PokerHand@3d494fbf Pair::You returned: Straight
+PokerHand@1ddc4ec2 Pair::You returned: Straight
+PokerHand@133314b Pair::You returned: Straight
+PokerHand@b1bc7ed Pair::You returned: Straight
+PokerHand@7cd84586 Pair::You returned: Straight
+PokerHand@30dae81 Pair::You returned: Straight
+PokerHand@1b2c6ec2 Pair::You returned: Straight
+PokerHand@4edde6e5 Pair::You returned: Straight
+PokerHand@70177ecd Pair::You returned: Straight
+PokerHand@1e80bfe8 Pair::You returned: Straight
+PokerHand@66a29884 Pair::You returned: Straight
+PokerHand@4769b07b High Q::You returned: Straight
+PokerHand@cc34f4d High J::You returned: Straight
+PokerHand@17a7cec2 High A::You returned: Straight
+PokerHand@65b3120a High Q::You returned: Straight
+PokerHand@6f539caf High Q::You returned: Straight
+PokerHand@79fc0f2f High A::You returned: Straight
+PokerHand@50040f0c High J::You returned: Straight
+PokerHand@2dda6444 High J::You returned: Straight
+PokerHand@5e9f23b4 High A::You returned: Straight
+PokerHand@4783da3f High J::You returned: Straight
+PokerHand@378fd1ac Full House::You returned: Straight
+PokerHand@49097b5d Full House::You returned: Straight
+PokerHand@6e2c634b Full House::You returned: Straight
+PokerHand@37a71e93 Full House::You returned: Straight
+PokerHand@7e6cbb7a Full House::You returned: Straight
+PokerHand@7c3df479 Full House::You returned: Straight
+PokerHand@7106e68e Full House::You returned: Straight
+PokerHand@7eda2dbb Full House::You returned: Straight
+PokerHand@6576fe71 3ok::You returned: Straight
+PokerHand@76fb509a 3ok::You returned: Straight
+PokerHand@300ffa5d 3ok::You returned: Straight
+PokerHand@1f17ae12 3ok::You returned: Straight
+PokerHand@4d405ef7 3ok::You returned: Straight
+PokerHand@6193b845 3ok::You returned: Straight
+PokerHand@2e817b38 3ok::You returned: Straight
+PokerHand@c4437c4 3ok::You returned: Straight
+PokerHand@433c675d 4ok::You returned: Straight
+PokerHand@3f91beef 4ok::You returned: Straight
+PokerHand@1a6c5a9e 4ok::You returned: Straight
+PokerHand@37bba400 4ok::You returned: Straight
+PokerHand@179d3b25 4ok::You returned: Straight
+PokerHand@254989ff 4ok::You returned: Straight
+PokerHand@5d099f62 4ok::You returned: Straight
+PokerHand@37f8bb67 4ok::You returned: Straight
+PokerHand@49c2faae Pair::You returned: Straight
+PokerHand@20ad9418 Pair::You returned: Straight
+PokerHand@31cefde0 Pair::You returned: Straight
+PokerHand@439f5b3d Pair::You returned: Straight
+PokerHand@1d56ce6a Pair::You returned: Straight
+PokerHand@5197848c Pair::You returned: Straight
+PokerHand@17f052a3 Pair::You returned: Straight
+PokerHand@2e0fa5d3 Pair::You returned: Straight
+PokerHand@5010be6 Pair::You returned: Straight
+PokerHand@685f4c2e Pair::You returned: Straight
+PokerHand@7daf6ecc Pair::You returned: Straight
+PokerHand@2e5d6d97 Pair::You returned: Straight
+PokerHand@238e0d81 Pair::You returned: Straight
+PokerHand@31221be2 Pair::You returned: Straight
+PokerHand@377dca04 Pair::You returned: Straight
+PokerHand@728938a9 Pair::You returned: Straight
+PokerHand@21b8d17c High K::You returned: Straight
+PokerHand@6433a2 High A::You returned: Straight
+PokerHand@5910e440 High A::You returned: Straight
+PokerHand@6267c3bb High K::You returned: Straight
+PokerHand@533ddba High J::You returned: Straight
+PokerHand@246b179d High K::You returned: Straight
+PokerHand@7a07c5b4 High J::You returned: Straight
+PokerHand@26a1ab54 High A::You returned: Straight
+PokerHand@3d646c37 High K::You returned: Straight
+PokerHand@41cf53f9 High 10::You returned: Straight
+PokerHand@5a10411 Full House::You returned: Straight
+PokerHand@2ef1e4fa Full House::You returned: Straight
+PokerHand@306a30c7 Full House::You returned: Straight
+PokerHand@b81eda8 Full House::You returned: Straight
+PokerHand@68de145 Full House::You returned: Straight
+PokerHand@27fa135a Full House::You returned: Straight
+PokerHand@46f7f36a Full House::You returned: Straight
+PokerHand@421faab1 Full House::You returned: Straight
+PokerHand@2b71fc7e 3ok::You returned: Straight
+PokerHand@5ce65a89 3ok::You returned: Straight
+PokerHand@25f38edc 3ok::You returned: Straight
+PokerHand@1a86f2f1 3ok::You returned: Straight
+PokerHand@3eb07fd3 3ok::You returned: Straight
+PokerHand@506c589e 3ok::You returned: Straight
+PokerHand@69d0a921 3ok::You returned: Straight
+PokerHand@446cdf90 3ok::You returned: Straight
+PokerHand@799f7e29 4ok::You returned: Straight
+PokerHand@4b85612c 4ok::You returned: Straight
+PokerHand@277050dc 4ok::You returned: Straight
+PokerHand@5c29bfd 4ok::You returned: Straight
+PokerHand@7aec35a 4ok::You returned: Straight
+PokerHand@67424e82 4ok::You returned: Straight
+PokerHand@42110406 4ok::You returned: Straight
+PokerHand@531d72ca 4ok::You returned: Straight
+PokerHand@22d8cfe0 Pair::You returned: Straight
+PokerHand@579bb367 Pair::You returned: Straight
+PokerHand@1de0aca6 Pair::You returned: Straight
+PokerHand@255316f2 Pair::You returned: Straight
+PokerHand@41906a77 Pair::You returned: Straight
+PokerHand@4b9af9a9 Pair::You returned: Straight
+PokerHand@5387f9e0 Pair::You returned: Straight
+PokerHand@6e5e91e4 Pair::You returned: Straight
+PokerHand@2cdf8d8a Pair::You returned: Straight
+PokerHand@30946e09 Pair::You returned: Straight
+PokerHand@5cb0d902 Pair::You returned: Straight
+PokerHand@46fbb2c1 Pair::You returned: Straight
+PokerHand@1698c449 Pair::You returned: Straight
+PokerHand@5ef04b5 Pair::You returned: Straight
+PokerHand@5f4da5c3 Pair::You returned: Straight
+PokerHand@443b7951 Pair::You returned: Straight
+PokerHand@14514713 High A::You returned: Straight
+PokerHand@69663380 High A::You returned: Straight
+PokerHand@5b37e0d2 High J::You returned: Straight
+PokerHand@4459eb14 High J::You returned: Straight
+PokerHand@5a2e4553 High 10::You returned: Straight
+PokerHand@28c97a5 High A::You returned: Straight
+PokerHand@6659c656 High K::You returned: Straight
+PokerHand@6d5380c2 High Q::You returned: Straight
+PokerHand@45ff54e6 High Q::You returned: Straight
+PokerHand@2328c243 High J::You returned: Straight
+PokerHand@bebdb06 Full House::You returned: Straight
+PokerHand@7a4f0f29 Full House::You returned: Straight
+PokerHand@45283ce2 Full House::You returned: Straight
+PokerHand@2077d4de Full House::You returned: Straight
+PokerHand@7591083d Full House::You returned: Straight
+PokerHand@77a567e1 Full House::You returned: Straight
+PokerHand@736e9adb Full House::You returned: Straight
+PokerHand@6d21714c Full House::You returned: Straight
+PokerHand@108c4c35 3ok::You returned: Straight
+PokerHand@4ccabbaa 3ok::You returned: Straight
+PokerHand@4bf558aa 3ok::You returned: Straight
+PokerHand@2d38eb89 3ok::You returned: Straight
+PokerHand@5fa7e7ff 3ok::You returned: Straight
+PokerHand@4629104a 3ok::You returned: Straight
+PokerHand@27f8302d 3ok::You returned: Straight
+PokerHand@4d76f3f8 3ok::You returned: Straight
+PokerHand@2d8e6db6 4ok::You returned: Straight
+PokerHand@23ab930d 4ok::You returned: Straight
+PokerHand@4534b60d 4ok::You returned: Straight
+PokerHand@3fa77460 4ok::You returned: Straight
+PokerHand@619a5dff 4ok::You returned: Straight
+PokerHand@1ed6993a 4ok::You returned: Straight
+PokerHand@7e32c033 4ok::You returned: Straight
+PokerHand@7ab2bfe1 4ok::You returned: Straight
+PokerHand@497470ed Pair::You returned: Straight
+PokerHand@63c12fb0 Pair::You returned: Straight
+PokerHand@b1a58a3 Pair::You returned: Straight
+PokerHand@6438a396 Pair::You returned: Straight
+PokerHand@e2144e4 Pair::You returned: Straight
+PokerHand@6477463f Pair::You returned: Straight
+PokerHand@3d71d552 Pair::You returned: Straight
+PokerHand@1cf4f579 Pair::You returned: Straight
+PokerHand@18769467 Pair::You returned: Straight
+PokerHand@46ee7fe8 Pair::You returned: Straight
+PokerHand@7506e922 Pair::You returned: Straight
+PokerHand@4ee285c6 Pair::You returned: Straight
+PokerHand@621be5d1 Pair::You returned: Straight
+PokerHand@573fd745 Pair::You returned: Straight
+PokerHand@15327b79 Pair::You returned: Straight
+PokerHand@4f2410ac Pair::You returned: Straight
+PokerHand@722c41f4 High Q::You returned: Straight
+PokerHand@5b80350b High 10::You returned: Straight
+PokerHand@5d6f64b1 High K::You returned: Straight
+PokerHand@32a1bec0 High 10::You returned: Straight
+PokerHand@22927a81 High J::You returned: Straight
+PokerHand@78e03bb5 High 10::You returned: Straight
+PokerHand@5e8c92f4 High J::You returned: Straight
+PokerHand@61e4705b High K::You returned: Straight
+PokerHand@50134894 High J::You returned: Straight
+PokerHand@2957fcb0 High Q::You returned: Straight
+PokerHand@1376c05c Full House::You returned: Straight
+PokerHand@51521cc1 Full House::You returned: Straight
+PokerHand@1b4fb997 Full House::You returned: Straight
+PokerHand@deb6432 Full House::You returned: Straight
+PokerHand@28ba21f3 Full House::You returned: Straight
+PokerHand@694f9431 Full House::You returned: Straight
+PokerHand@f2a0b8e Full House::You returned: Straight
+PokerHand@593634ad Full House::You returned: Straight
+PokerHand@20fa23c1 3ok::You returned: Straight
+PokerHand@3581c5f3 3ok::You returned: Straight
+PokerHand@6aa8ceb6 3ok::You returned: Straight
+PokerHand@2530c12 3ok::You returned: Straight
+PokerHand@73c6c3b2 3ok::You returned: Straight
+PokerHand@48533e64 3ok::You returned: Straight
+PokerHand@64a294a6 3ok::You returned: Straight
+PokerHand@7e0b37bc 3ok::You returned: Straight
+PokerHand@3b95a09c 4ok::You returned: Straight
+PokerHand@6ae40994 4ok::You returned: Straight
+PokerHand@1a93a7ca 4ok::You returned: Straight
+PokerHand@3d82c5f3 4ok::You returned: Straight
+PokerHand@2b05039f 4ok::You returned: Straight
+PokerHand@61e717c2 4ok::You returned: Straight
+PokerHand@66cd51c3 4ok::You returned: Straight
+PokerHand@4dcbadb4 4ok::You returned: Straight
+PokerHand@4e515669 Pair::You returned: Straight
+PokerHand@17d10166 Pair::You returned: Straight
+PokerHand@1b9e1916 Pair::You returned: Straight
+PokerHand@ba8a1dc Pair::You returned: Straight
+PokerHand@4f8e5cde Pair::You returned: Straight
+PokerHand@504bae78 Pair::You returned: Straight
+PokerHand@3b764bce Pair::You returned: Straight
+PokerHand@759ebb3d Pair::You returned: Straight
+PokerHand@484b61fc Pair::You returned: Straight
+PokerHand@45fe3ee3 Pair::You returned: Straight
+PokerHand@4cdf35a9 Pair::You returned: Straight
+PokerHand@4c98385c Pair::You returned: Straight
+PokerHand@5fcfe4b2 Pair::You returned: Straight
+PokerHand@6bf2d08e Pair::You returned: Straight
+PokerHand@5eb5c224 Pair::You returned: Straight
+PokerHand@53e25b76 Pair::You returned: Straight
+PokerHand@73a8dfcc High Q::You returned: Straight
+PokerHand@ea30797 High A::You returned: Straight
+PokerHand@7e774085 High A::You returned: Straight
+PokerHand@3f8f9dd6 High A::You returned: Straight
+PokerHand@aec6354 High 10::You returned: Straight
+PokerHand@1c655221 High Q::You returned: Straight
+PokerHand@58d25a40 High A::You returned: Straight
+PokerHand@1b701da1 High Q::You returned: Straight
+PokerHand@726f3b58 High A::You returned: Straight
+PokerHand@442d9b6e High A::You returned: Straight
+PokerHand@ee7d9f1 Flush::You returned: Straight Flush
+PokerHand@15615099 Full House::You returned: Straight
+PokerHand@1edf1c96 Full House::You returned: Straight
+PokerHand@368102c8 Full House::You returned: Straight
+PokerHand@6996db8 Full House::You returned: Straight
+PokerHand@1963006a Full House::You returned: Straight
+PokerHand@7fbe847c Full House::You returned: Straight
+PokerHand@41975e01 Full House::You returned: Straight
+PokerHand@c2e1f26 Full House::You returned: Straight
+PokerHand@dcf3e99 3ok::You returned: Straight
+PokerHand@6d9c638 3ok::You returned: Straight
+PokerHand@7dc5e7b4 3ok::You returned: Straight
+PokerHand@1ee0005 3ok::You returned: Straight
+PokerHand@75a1cd57 3ok::You returned: Straight
+PokerHand@3d012ddd 3ok::You returned: Straight
+PokerHand@6f2b958e 3ok::You returned: Straight
+PokerHand@1eb44e46 3ok::You returned: Straight
+PokerHand@6504e3b2 4ok::You returned: Straight
+PokerHand@515f550a 4ok::You returned: Straight
+PokerHand@626b2d4a 4ok::You returned: Straight
+PokerHand@5e91993f 4ok::You returned: Straight
+PokerHand@1c4af82c 4ok::You returned: Straight
+PokerHand@379619aa 4ok::You returned: Straight
+PokerHand@cac736f 4ok::You returned: Straight
+PokerHand@5e265ba4 4ok::You returned: Straight
+PokerHand@156643d4 Pair::You returned: Straight
+PokerHand@123a439b Pair::You returned: Straight
+PokerHand@7de26db8 Pair::You returned: Straight
+PokerHand@1175e2db Pair::You returned: Straight
+PokerHand@36aa7bc2 Pair::You returned: Straight
+PokerHand@76ccd017 Pair::You returned: Straight
+PokerHand@182decdb Pair::You returned: Straight
+PokerHand@26f0a63f Pair::You returned: Straight
+PokerHand@4361bd48 Pair::You returned: Straight
+PokerHand@53bd815b Pair::You returned: Straight
+PokerHand@2401f4c3 Pair::You returned: Straight
+PokerHand@7637f22 Pair::You returned: Straight
+PokerHand@4926097b Pair::You returned: Straight
+PokerHand@762efe5d Pair::You returned: Straight
+PokerHand@5d22bbb7 Pair::You returned: Straight
+PokerHand@41a4555e Pair::You returned: Straight
+PokerHand@3830f1c0 High A::You returned: Straight
+PokerHand@39ed3c8d High A::You returned: Straight
+PokerHand@71dac704 High Q::You returned: Straight
+PokerHand@123772c4 High K::You returned: Straight
+PokerHand@2d363fb3 High J::You returned: Straight
+PokerHand@7d6f77cc High A::You returned: Straight
+PokerHand@5aaa6d82 High J::You returned: Straight
+PokerHand@73a28541 High J::You returned: Straight
+PokerHand@6f75e721 High A::You returned: Straight
+PokerHand@69222c14 High 10::You returned: Straight
+PokerHand@606d8acf getBestHand failed to run.  Deduction: 1
+PokerHand@782830e Full House::You returned: Straight
+PokerHand@470e2030 getBestHand failed to run.  Deduction: 1
+PokerHand@3fb4f649 Full House::You returned: Straight
+PokerHand@33833882 Full House::You returned: Straight
+PokerHand@200a570f Full House::You returned: Straight
+PokerHand@16b3fc9e Full House::You returned: Straight
+PokerHand@e2d56bf Full House::You returned: Straight
+PokerHand@244038d0 3ok::You returned: Straight
+PokerHand@5680a178 3ok::You returned: Straight
+PokerHand@5fdef03a 3ok::You returned: Straight
+PokerHand@3b22cdd0 3ok::You returned: Straight
+PokerHand@1e81f4dc 3ok::You returned: Straight
+PokerHand@4d591d15 3ok::You returned: Straight
+PokerHand@65ae6ba4 3ok::You returned: Straight
+PokerHand@48cf768c 3ok::You returned: Straight
+PokerHand@59f95c5d 4ok::You returned: Straight
+PokerHand@5ccd43c2 4ok::You returned: Straight
+PokerHand@4aa8f0b4 4ok::You returned: Straight
+PokerHand@7960847b 4ok::You returned: Straight
+PokerHand@6a6824be 4ok::You returned: Straight
+PokerHand@5c8da962 4ok::You returned: Straight
+PokerHand@512ddf17 4ok::You returned: Straight
+PokerHand@2c13da15 4ok::You returned: Straight
+PokerHand@77556fd Pair::You returned: Straight
+PokerHand@368239c8 Pair::You returned: Straight
+PokerHand@9e89d68 Pair::You returned: Straight
+PokerHand@3b192d32 Pair::You returned: Straight
+PokerHand@16f65612 Pair::You returned: Straight
+PokerHand@311d617d Pair::You returned: Straight
+PokerHand@7c53a9eb Pair::You returned: Straight
+PokerHand@ed17bee Pair::You returned: Straight
+PokerHand@2a33fae0 Pair::You returned: Straight
+PokerHand@707f7052 Pair::You returned: Straight
+PokerHand@11028347 Pair::You returned: Straight
+PokerHand@14899482 Pair::You returned: Straight
+PokerHand@21588809 Pair::You returned: Straight
+PokerHand@2aae9190 Pair::You returned: Straight
+PokerHand@2f333739 Pair::You returned: Straight
+PokerHand@77468bd9 Pair::You returned: Straight
+PokerHand@12bb4df8 High A::You returned: Straight
+PokerHand@4cc77c2e High 10::You returned: Straight
+PokerHand@7a7b0070 High A::You returned: Straight
+PokerHand@39a054a5 High K::You returned: Straight
+PokerHand@71bc1ae4 High K::You returned: Straight
+PokerHand@6ed3ef1 High A::You returned: Straight
+PokerHand@2437c6dc High J::You returned: Straight
+PokerHand@1f89ab83 High A::You returned: Straight
+PokerHand@e73f9ac High 10::You returned: Straight
+PokerHand@61064425 High K::You returned: Straight
+discard incorrect: -25
+discard incorrect: -25
+Error in Deck Constructor/Deal Method
+Deck missing cards: -15
+Error in Deck. Deduction: 20
+score: 300.0
+total: 887.0
+percent: 33.82187147688839
